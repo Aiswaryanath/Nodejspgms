@@ -1,0 +1,23 @@
+{
+  "name": "nodepgms",
+  "version": "1.0.0",
+  "description": "my first nodepgm",
+  "main": "add.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aiswaryanath/Nodejspgms.git"
+  },
+  "author": "Aiswarya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aiswaryanath/Nodejspgms/issues"
+  },
+  "homepage": "https://github.com/Aiswaryanath/Nodejspgms#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.0"
+  }
+}
